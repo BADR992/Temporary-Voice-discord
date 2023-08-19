@@ -1,0 +1,13 @@
+{
+    "lock": "<:lock:1142365026557100052>",
+    "unlock": "<:unlock:1142365153132818463>",
+    "hidechannel":"<:invisible:1142365329746571364>",
+    "UnhideChannel": "<:unhide:1142365783662526554>",
+    "RenameChannel": "<:edit:1142366144766939146>",
+    "Mute": "<:mute:1142366705029492827>",
+    "unmute": "<:unmute:1142366705029492827>",
+    "customize": "<:adduser:1142367746169000107>",
+    "Disconnect": "<:logout:1142368381794791476>",
+    "UsersManager": "<:Users_Manager:1142368801527177256>",
+    "Delete_Channel": "<:clear:1142369373445685289>"
+}
