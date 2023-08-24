@@ -3,5 +3,6 @@
     "ChannelId" : "",
     "CategoryId" : "",
     "OwnersId": [""],
-    "token": ""
+    "token": "",
+    "link": ""
 }
