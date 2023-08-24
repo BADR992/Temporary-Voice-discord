@@ -11,7 +11,7 @@ const chalk = require('chalk')
 const db = require('pro.db')
 const BotConfig = require('./config.json')
 const emojis = require("./emojis.json")
-const link = 'https://discord.gg/8bMdqCZ9s'
+const link = require("./config.json)
 
 client.on('ready', async () => {
     console.log(chalk.blue('The Client has been Connected to : ') + chalk.red(client.user.username))
